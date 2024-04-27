@@ -23,7 +23,9 @@ My major programming languages are Python, R, and C.
 
 ...
 
-- 🔗 My website and space recording my practices of data structures: https://littledatastructure.netlify.app/ & https://littledatastructure.quora.com/
+- 🔗 My website and space documenting my practice sessions in data structures:
+  - https://littledatastructure.netlify.app/
+  - https://littledatastructure.quora.com/
 - 🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/milazhang00/
 
 ## Projects
