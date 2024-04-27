@@ -21,10 +21,10 @@ Obsessed with Machine Learning and its powerful applications. Reading *Hands-On 
 
 My major programming languages are Python, R, and C.
 
----
+...
 
 - 🔗 My website and space recording my practices of data structures: https://littledatastructure.netlify.app/ & https://littledatastructure.quora.com/
-- 🖇 Connect with me on LinkedIn: https://www.linkedin.com/in/milazhang00/
+- 🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/milazhang00/
 
 ## Projects
 
@@ -34,4 +34,4 @@ My major programming languages are Python, R, and C.
 
 🐜 [Active Inference & Ant Colony Simulation](https://github.com/milanaveed/cits4403_project) - Agent-based model written in Python that explores metrics for evaluating the presence of Stigmergy.
 
-🔐 [Secure Coding in C] - CITS3007 Secure Coding project. Received 2 bonus marks for taking care to avoid integer overflow and bad values to `calloc`.
+🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project. Received 2 bonus marks for taking care to avoid integer overflow and bad values to `calloc`.
