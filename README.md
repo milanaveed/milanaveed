@@ -13,21 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+How to open preview in vscode: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
+-->
+
 I'm Mila.
 
 Currently doing a Master's degree in Software Engineering at UWA.
 
 Obsessed with Machine Learning and its powerful applications. </br>
-Reading *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* by Aurélien.
+Reading _Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow_ by Aurélien.
 
 My major programming languages are Python, R, and C.
 
 ...
 
-- 🔗 My website and space documenting my practice in data structures:
-  - https://littledatastructure.netlify.app/
-  - https://littledatastructure.quora.com/
-- 🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/milazhang00/
+-   🔗 My website and space documenting my practice in data structures:
+    -   https://littledatastructure.netlify.app/
+    -   https://littledatastructure.quora.com/
+-   🌐 Connect with me on LinkedIn: https://www.linkedin.com/in/milazhang00/
 
 ## Projects
 
@@ -38,3 +42,16 @@ My major programming languages are Python, R, and C.
 🐜 [Active Inference & Ant Colony Simulation](https://github.com/milanaveed/cits4403_project) - Agent-based model written in Python that explores metrics for evaluating the presence of Stigmergy.
 
 🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project. Received 2 bonus marks for taking care to avoid integer overflow and bad values to `calloc`.
+
+## My Midjourney Creation
+
+<div align='center'>
+    <p style='display: inline_block'>
+        <img align="center" alt="00" height="120" width="90" src="./images/aigc/02.png">
+        <img align="center" alt="00" height="120" width="90" src="./images/aigc/01.png">
+        <img align="center" alt="00" height="120" width="90" src="./images/aigc/06.png">
+        <img align="center" alt="00" height="120" width="90" src="./images/aigc/03.png">
+        <img align="center" alt="00" height="120" width="90" src="./images/aigc/05.png">
+        <img align="center" alt="00" height="120" width="90" src="./images/aigc/04.png">
+    </p>
+</div>
