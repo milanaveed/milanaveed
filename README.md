@@ -17,7 +17,8 @@ I'm Mila.
 
 Currently doing a Master's degree in Software Engineering at UWA.
 
-Obsessed with Machine Learning and its powerful applications. Reading *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* by Aurélien.
+Obsessed with Machine Learning and its powerful applications. 
+Reading *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* by Aurélien.
 
 My major programming languages are Python, R, and C.
 
