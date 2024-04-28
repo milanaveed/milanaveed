@@ -45,13 +45,16 @@ My major programming languages are Python, R, and C.
 
 ## My Midjourney Creation
 
+<!--
+reference: https://github.com/jaywcjlove/jaywcjlove/blob/master/README.md?plain=1
+-->
 <div align='center'>
     <p style='display: inline_block'>
-        <img align="center" alt="00" height="120" width="90" src="./images/aigc/02.png">
-        <img align="center" alt="00" height="120" width="90" src="./images/aigc/01.png">
-        <img align="center" alt="00" height="120" width="90" src="./images/aigc/06.png">
-        <img align="center" alt="00" height="120" width="90" src="./images/aigc/03.png">
-        <img align="center" alt="00" height="120" width="90" src="./images/aigc/05.png">
-        <img align="center" alt="00" height="120" width="90" src="./images/aigc/04.png">
+        <img align="center" alt="00" height="160" width="120" src="./images/aigc/02.png">
+        <img align="center" alt="00" height="160" width="120" src="./images/aigc/01.png">
+        <img align="center" alt="00" height="160" width="120" src="./images/aigc/06.png">
+        <img align="center" alt="00" height="160" width="120" src="./images/aigc/03.png">
+        <img align="center" alt="00" height="160" width="120" src="./images/aigc/05.png">
+        <img align="center" alt="00" height="160" width="120" src="./images/aigc/04.png">
     </p>
 </div>
