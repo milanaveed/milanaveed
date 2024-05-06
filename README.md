@@ -43,7 +43,7 @@ My major programming languages are Python, R, and C.
 
 🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project. Received 2 bonus marks for taking care to avoid integer overflow and bad values to `calloc`.
 
-## My Midjourney Creation
+## My Midjourney Creation for Profile Pictures
 
 <!--
 reference: https://github.com/jaywcjlove/jaywcjlove/blob/master/README.md?plain=1
