@@ -35,7 +35,7 @@ My major programming languages are Python, R, and C.
 
 ## Projects
 
-📖 [NLP - ABSA Research](https://github.com/milanaveed/cits4012_project/blob/main/CITS4012_15.pdf) - Aspect-Based Sentiment Analysis research project of Natural Language Processing unit which had a novel design, high model performance and good representation and earned a High Distinction grade.
+📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - Aspect-Based Sentiment Analysis research project of Natural Language Processing unit which had a novel design, high model performance and good representation and earned a High Distinction grade.
 
 🤖 [Machine Learning](https://github.com/milanaveed/cits5508/blob/main/assignment2/assig2_22756463.ipynb) - Assignment 2 of the CITS5508 Machine Learning unit which earned a High Distinction grade (96%).
 
