@@ -39,8 +39,6 @@ My major programming languages are Python, R, and C.
 
 🍄 [AI & Super Mario Bros](https://github.com/milanaveed/cits3001_project) - Implementation of unsupervised machine learning (reinforcement learning using Stable Baselines and PyTorch).
 
-💻 [Global YouTube Data Analysis](https://github.com/milanaveed/cits4009_project) - CITS4009 Computational Data Analysis project written in R, involving data cleaning and exploratory data analysis.
-
 🐜 [Active Inference & Ant Colony Simulation](https://github.com/milanaveed/cits4403_project) - Agent-based model written in Python that explores metrics for evaluating the presence of Stigmergy.
 
 🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project. Received 2 bonus marks for taking care to avoid integer overflow and bad values to `calloc`.
