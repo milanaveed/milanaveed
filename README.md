@@ -17,25 +17,16 @@ Here are some ideas to get you started:
 How to open preview in vscode: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
 -->
 
-I'm Mila.
+Hello, I'm Mila, currently doing a Master's degree in Software Engineering at The University of Western Australia, graduating in June 2026.
 
-Currently doing a Master's degree in Software Engineering at UWA.
+-   🔗 This is my [website](https://littledatastructure.netlify.app/) and [space](https://littledatastructure.quora.com/) where I document my practice with data structures.
+-   🌐 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/milazhang00/) :)
 
-Obsessed with Machine Learning and its powerful applications. </br>
-Reading _Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow_ by Aurélien.
+## My past projects are as follows:
 
-My major programming languages are Python, R, and C.
+📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation, earning a High Distinction grade.
 
-...
-
--   🔗 My [website](https://littledatastructure.netlify.app/) and [space](https://littledatastructure.quora.com/) documenting my practice in data structures.
--   🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/milazhang00/) :)
-
-## Projects
-
-📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - Aspect-Based Sentiment Analysis research project of Natural Language Processing unit which had a novel design, high model performance and good representation and earned a High Distinction grade.
-
-🤖 [Machine Learning](https://github.com/milanaveed/cits5508/blob/main/assignment2/assig2_22756463.ipynb) - Assignment 2 of the CITS5508 Machine Learning unit which earned a High Distinction grade (96%). ChatGPT can't write code like I do.
+🤖 [Machine Learning](https://github.com/milanaveed/cits5508/blob/main/assignment2/assig2_22756463.ipynb) - Assignment 2 of the CITS5508 Machine Learning unit, which earned a High Distinction grade (96%). ChatGPT can't write code like I do.
 
 🍄 [AI & Super Mario Bros](https://github.com/milanaveed/cits3001_project) - Implementation of unsupervised machine learning (reinforcement learning using Stable Baselines and PyTorch).
 
@@ -43,7 +34,7 @@ My major programming languages are Python, R, and C.
 
 🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project. Received 2 bonus marks for taking care to avoid integer overflow and bad values to `calloc`.
 
-## My Midjourney AI Creation for Profile Pictures
+## My previous Midjourney AI creation for fun:
 
 <!--
 reference: https://github.com/jaywcjlove/jaywcjlove/blob/master/README.md?plain=1
