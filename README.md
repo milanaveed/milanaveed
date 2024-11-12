@@ -24,7 +24,7 @@ Hello, I'm Mila, currently doing a Master's degree in Software Engineering at Th
 
 ## My past projects are as follows:
 
-📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation, earning a High Distinction grade.
+📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation, earning a High Distinction grade. Received all three bonus marks.
 
 🤖 [Machine Learning](https://github.com/milanaveed/cits5508/blob/main/assignment2/assig2_22756463.ipynb) - Assignment 2 of the CITS5508 Machine Learning unit, which earned a High Distinction grade (96%). ChatGPT can't write code like I do.
 
