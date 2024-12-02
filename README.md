@@ -26,7 +26,7 @@ Hello, I'm Mila, currently doing a Master's degree in Software Engineering at Th
 
 📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation, earning a High Distinction grade. Received all three bonus marks.
 
-🤖 [Machine Learning](https://github.com/milanaveed/cits5508/blob/main/assignment2/assig2_22756463.ipynb) - Assignment 2 of the CITS5508 Machine Learning unit, which earned a High Distinction grade (96%). ChatGPT can't write code like I do.
+🤖 [Machine Learning](https://github.com/milanaveed/cits5508/blob/main/assignment2/assig2_22756463.ipynb) - Assignment 2 of the CITS5508 Machine Learning unit, which earned a High Distinction grade (96%). ChatGPT can't write code like I do. No use of AI-powered code completion tools such as GitHub Copilot.
 
 🍄 [AI & Super Mario Bros](https://github.com/milanaveed/cits3001_project) - Implementation of unsupervised machine learning (reinforcement learning using Stable Baselines and PyTorch).
 
