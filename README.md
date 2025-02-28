@@ -19,9 +19,9 @@ How to open preview in vscode: https://code.visualstudio.com/docs/languages/mark
 
 Hello, I'm Mila, currently doing a Master's degree in Software Engineering at The University of Western Australia, graduating in June 2026.
 
--   🔗 This is my [space](https://littledatastructure.quora.com/) and [website](https://littledatastructure.netlify.app/) where I document my practice with data structures.
+-   🔗 This is my [space](https://littledatastructure.quora.com/) and [website](https://littledatastructure.netlify.app/) where I document my practice with data structures
 -   🌐 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/milazhang00/) :)
--   My ophthalmic coding projects will become open-source in the future.
+-   My ophthalmic coding projects will become open-source in the future
 
 ## My past projects are as follows:
 
