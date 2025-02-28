@@ -19,7 +19,7 @@ How to open preview in vscode: https://code.visualstudio.com/docs/languages/mark
 
 Hello, I'm Mila, currently doing a Master's degree in Software Engineering at The University of Western Australia, graduating in June 2026.
 
--   🔗 This is my [website](https://littledatastructure.netlify.app/) and [space](https://littledatastructure.quora.com/) where I document my practice with data structures.
+-   🔗 This is my [space](https://littledatastructure.quora.com/) and [website](https://littledatastructure.netlify.app/) where I document my practice with data structures.
 -   🌐 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/milazhang00/) :)
 -   My ophthalmic coding projects will become open-source in the future.
 
@@ -36,7 +36,11 @@ Hello, I'm Mila, currently doing a Master's degree in Software Engineering at Th
 🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project. Received 2 bonus marks for taking care to avoid integer overflow and bad values to `calloc`.
 
 ## My previous Midjourney AI creation for fun:
-
+<div align='center'>
+    <p style="font-size: 24px; font-weight: bold; font-style: italic; text-align: center;">
+💛 May you have the courage to face and overcome life’s challenges 💛
+    </p>   
+</div>
 <!--
 reference: https://github.com/jaywcjlove/jaywcjlove/blob/master/README.md?plain=1
 -->
