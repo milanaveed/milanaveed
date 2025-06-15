@@ -25,15 +25,15 @@ Hello, I'm Mila, currently doing a Master's degree in Software Engineering at Th
 
 ## My past projects are as follows:
 
-📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation, earning a High Distinction grade. Received all three bonus marks.
+📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation.
 
-🤖 [Machine Learning](https://github.com/milanaveed/cits5508/blob/main/assignment2/assig2_22756463.ipynb) - Assignment 2 of the CITS5508 Machine Learning unit, which earned a High Distinction grade (96%). No use of AI-powered tools such as GitHub Copilot and ChatGPT.
+🤖 [Machine Learning](https://github.com/milanaveed/cits5508/blob/main/assignment2/assig2_22756463.ipynb) - Assignment 2 of the CITS5508 Machine Learning unit. No use of AI-powered tools such as GitHub Copilot and ChatGPT.
 
 🍄 [AI & Super Mario Bros](https://github.com/milanaveed/cits3001_project) - Implementation of unsupervised machine learning (reinforcement learning using Stable Baselines and PyTorch).
 
 🐜 [Active Inference & Ant Colony Simulation](https://github.com/milanaveed/cits4403_project) - Agent-based model written in Python that explores metrics for evaluating the presence of Stigmergy.
 
-🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project. Received 2 bonus marks for taking care to avoid integer overflow and bad values to `calloc`.
+🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project, taking care to avoid integer overflow and bad values to `calloc`.
 
 ## My previous Midjourney AI creation for fun:
 <div align='center'>
