@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 How to open preview in vscode: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
 -->
 
-Hello, I'm Mila, currently doing a Master's degree in Software Engineering at The University of Western Australia, graduating in June 2026.
+## Hello, I'm Mila 👋
+
+Currently doing a Master's degree in Software Engineering at The University of Western Australia, graduating in June 2026.
 
 -   🔗 This is my [space](https://littledatastructure.quora.com/) and [website](https://littledatastructure.netlify.app/) where I document my practice with data structures
 -   🌐 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/milazhang00/) :)
