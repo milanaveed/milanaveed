@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 How to open preview in vscode: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
 -->
 
-## Hello, I'm Mila 👋
+### Hello, I'm Mila 👋
 
 Currently doing a Master's degree in Software Engineering at The University of Western Australia, graduating in June 2026.
 
@@ -25,7 +25,7 @@ Currently doing a Master's degree in Software Engineering at The University of W
 -   🌐 Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/milazhang00/) :)
 -   My ophthalmic coding projects will become open-source in the future
 
-## My past projects are as follows:
+### My past projects are as follows:
 
 🚢 [Battleship](https://github.com/milanaveed/cits3002-labs/tree/main/22756463_BEER) - Play my multithreaded two-player battleship game with a grade of HD. Thanks to Larry for his assistance in the lab :)
 
