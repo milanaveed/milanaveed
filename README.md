@@ -22,6 +22,7 @@ How to open preview in vscode: https://code.visualstudio.com/docs/languages/mark
 Currently doing a Master's degree in Software Engineering at The University of Western Australia, graduating in June 2026.
 
 -   🔗 This is my [space](https://littledatastructure.quora.com/) and [website](https://littledatastructure.netlify.app/) where I document my practice with data structures
+- 👩🏻‍💻 I hope to leave something useful before I become ashes 🏃🏻‍♀️
 
 ### My past projects are as follows:
 
