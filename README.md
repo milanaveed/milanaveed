@@ -26,7 +26,7 @@ Currently doing a Master's degree in Software Engineering at The University of W
 
 ### My past projects are as follows:
 
-🚢 [Battleship](https://github.com/milanaveed/cits3002-labs/tree/main/22756463_BEER) - Play my multithreaded two-player battleship game with a grade of HD. Thanks to Larry for his assistance in the lab :)
+🚢 [Battleship](https://github.com/milanaveed/cits3002-labs/tree/main/22756463_BEER) - My multi-threaded two-player battleship game, where I practised interactive design, modularity and completed high-level tasks within a very limited amount of time. 
 
 📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation. Received all three bonus marks for the assignment.
 
