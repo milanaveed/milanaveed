@@ -25,8 +25,9 @@ Currently doing a Master's degree in Software Engineering at The University of W
 - 👩🏻‍💻 I hope to leave something useful before I become ashes 🏃🏻‍♀️
 
 ### My past projects are as follows:
-
 🚢 [Battleship](https://github.com/milanaveed/cits3002-labs/tree/main/22756463_BEER) - My multi-threaded two-player battleship game in the Computer Networks unit, where I practised interactive design, modularity and completed high-level tasks within a very limited amount of time. 
+
+🖥️ [High Performance Computing] - An assignment of the CITS5507 HPC unit (parallelism). A collaboration between Zachary and me, where Zachary wrote the raw code in C using OpenMP and described the parallel structures, I was in charge of testing/debugging in both local and Pawsey environments and analysing the performance. Received 100 out of 100.
 
 ☁️ [Cloud Computing](https://github.com/milanaveed/cits5503) - Assignments of the CITS5503 Cloud Computing unit. Amazon Web Services, Linux, Docker, DynamoDB, Django.
 
@@ -38,7 +39,7 @@ Currently doing a Master's degree in Software Engineering at The University of W
 
 🐜 [Active Inference & Ant Colony Simulation](https://github.com/milanaveed/cits4403_project) - Agent-based model written in Python that explores metrics for evaluating the presence of Stigmergy.
 
-🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project, taking care to avoid integer overflow and bad values to `calloc`.
+🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project, received two bonus marks for taking care to avoid integer overflow and bad values to `calloc`.
 
 <!--
 reference: https://github.com/jaywcjlove/jaywcjlove/blob/master/README.md?plain=1
