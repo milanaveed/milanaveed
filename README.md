@@ -27,6 +27,8 @@ Currently doing a Master's degree in Software Engineering at The University of W
 ### My past projects are as follows:
 🚢 [Battleship](https://github.com/milanaveed/cits3002-labs/tree/main/22756463_BEER) - My multi-threaded two-player battleship game in the Computer Networks unit, where I practised interactive design, modularity and completed high-level tasks within a very limited amount of time. 
 
+👁️ [OCTAVA] An open-source tool that performs eye image processing and analysis for microvasculature data. Features include binarisation, skeletonisation, segmentation, regional analysis, batch processing and more to come.
+
 🖥️ [High Performance Computing] - An assignment of the CITS5507 HPC unit (parallelism). A collaboration between Zachary and me, where Zachary wrote the C code using OpenMP to perform matrix multiplication and described the parallel structures, while I was responsible for debugging/designing tests in both local and Pawsey environments and analysing the performance (data analytics).
 
 📊 [Sleep Diary App] - Led a team of 6 software engineering students in this 2-semester software design project. Co-designed and developed the Progressive Web App.
