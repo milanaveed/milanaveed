@@ -33,7 +33,7 @@ Currently doing a Master's degree in Software Engineering at The University of W
 
 📊 [Sleep Diary App] - Led a team of 6 software engineering students in this 2-semester software design project. Co-designed and developed the Progressive Web App.
 
-☁️ [Cloud Computing](https://github.com/milanaveed/cits5503) - Assignments of the CITS5503 Cloud Computing unit. Amazon Web Services, Linux, Docker, DynamoDB, Django.
+☁️ [Cloud Computing] - Assignments of the CITS5503 Cloud Computing unit. Amazon Web Services, Linux, Docker, DynamoDB, Django.
 
 📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation.
 
