@@ -35,15 +35,15 @@ Currently doing a Master's degree in Software Engineering at The University of W
 
 ☁️ [Cloud Computing](https://github.com/milanaveed/cits5503) - Assignments of the CITS5503 Cloud Computing unit. Amazon Web Services, Linux, Docker, DynamoDB, Django.
 
-📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation. Received all three bonus marks for the assignment.
+📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation.
 
 🤖 [Machine Learning](https://github.com/milanaveed/cits5508/blob/main/assignment2/assig2_22756463.ipynb) - Assignment 2 of the CITS5508 Machine Learning unit with a grade of 96%. No use of AI-powered tools such as GitHub Copilot and ChatGPT.
 
 🍄 [AI & Super Mario Bros](https://github.com/milanaveed/cits3001_project) - Implementation of unsupervised machine learning (reinforcement learning using Stable Baselines and PyTorch).
 
-🐜 [Active Inference & Ant Colony Simulation](https://github.com/milanaveed/cits4403_project) - Agent-based model written in Python that explores metrics for evaluating the presence of Stigmergy.
+🐜 [Active Inference & Ant Colony Simulation] - Agent-based model written in Python that explores metrics for evaluating the presence of Stigmergy.
 
-🔐 [Secure Coding in C](https://github.com/milanaveed/cits3007_project) - CITS3007 Secure Coding project, received two bonus marks for taking care to avoid integer overflow and bad values to `calloc`.
+🔐 [Secure Coding in C] - CITS3007 Secure Coding project, taking care to avoid integer overflow and bad values to `calloc`.
 
 <!--
 reference: https://github.com/jaywcjlove/jaywcjlove/blob/master/README.md?plain=1
