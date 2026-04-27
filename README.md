@@ -17,21 +17,21 @@ Here are some ideas to get you started:
 How to open preview in vscode: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
 -->
 
-### Hello, I'm Mila 👋
+### Hello, I'm Mila
 
 Currently doing a Master's degree in Software Engineering at The University of Western Australia, graduating in June 2026.
 
--   🔗 This is my [space](https://littledatastructure.quora.com/) and [website](https://littledatastructure.netlify.app/) where I document my practice with data structures
-- 👩🏻‍💻 I hope to leave something useful before I become ashes. Let's make something good together.
+- 🔗 This is my [space](https://littledatastructure.quora.com/) and [website](https://littledatastructure.netlify.app/) where I document my practice with data structures
+- I hope to leave something useful before I become ashes. Let's make something good together.
 
 ### My past projects are as follows:
 🚢 [Battleship](https://github.com/milanaveed/cits3002-labs/tree/main/22756463_BEER) - My multi-threaded two-player battleship game in the Computer Networks unit, where I practised interactive design, modularity and completed high-level tasks within a very limited amount of time. 
 
-👁️ [OCTAVA] An open-source tool that performs eye image processing and analysis for microvasculature data. Features include binarisation, skeletonisation, segmentation, regional analysis, batch processing and more to come. Collaborated with 5 other programmers.
+👁️ [OCTAVA] An open-source tool that performs eye image processing and analysis for microvascular data. Features include binarisation, skeletonisation, segmentation, regional analysis, batch processing and more to come. Collaborated with 5 other programmers.
 
 🖥️ [High Performance Computing] - An assignment of the CITS5507 HPC unit (parallelism). A collaboration between Zachary and me, where Zachary wrote the C code using OpenMP to perform matrix multiplication and described the parallel structures, while I was responsible for debugging/designing tests in both local and Pawsey environments and analysing the performance (data analytics).
 
-📊 [Sleep Diary App] - Led a team of 6 software engineering students in this 2-semester software design project. Co-designed and developed the Progressive Web App.
+📊 [Sleep Diary App] - Led a team of 6 software engineering students in this 2-semester software design project. Co-designed and developed a Progressive Web App.
 
 ☁️ [Cloud Computing] - Assignments of the CITS5503 Cloud Computing unit. Amazon Web Services, Linux, Docker, DynamoDB, Django.
 
