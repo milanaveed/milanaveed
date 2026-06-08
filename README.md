@@ -37,7 +37,7 @@ I'm doing a Master's degree in Software Engineering at The University of Western
 
 ☁️ [Cloud Computing] - Assignments of the CITS5503 Cloud Computing unit. Amazon Web Services, Linux, Docker, DynamoDB, Django.
 
-📖 [NLP - ABSA Research](https://drive.google.com/file/d/1LDM0aTeyFniUW042YhCcsw_4O9wiMnvn/view?usp=sharing) - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit, which featured a novel design, high model performance, and good representation.
+📖 [NLP - ABSA Research] - An Aspect-Based Sentiment Analysis research project in the Natural Language Processing unit.
 
 🤖 [Machine Learning](https://github.com/milanaveed/cits5508/blob/main/assignment2/assig2_22756463.ipynb) - Assignment 2 of the CITS5508 Machine Learning unit with a grade of 96%. No use of AI-powered tools such as GitHub Copilot and ChatGPT.
 
