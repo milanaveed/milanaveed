@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 How to open preview in vscode: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
 -->
 
-### Hello, I am Mila 🌿
+### Hello, I am Mila
 Currently editing this page...
 
 <!--
