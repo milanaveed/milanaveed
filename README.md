@@ -18,7 +18,8 @@ How to open preview in vscode: https://code.visualstudio.com/docs/languages/mark
 -->
 
 ### Hello, I am Mila
-Currently editing this page...
+
+I am a research engineer working on eye research and am interested in STEM and medicine, including cancer and cardiology.
 
 <!--
 reference: https://github.com/jaywcjlove/jaywcjlove/blob/master/README.md?plain=1
