@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 How to open preview in vscode: https://code.visualstudio.com/docs/languages/markdown#_markdown-preview
 -->
 
+<div align='center'>
+    <p style='display: inline_block'>
+        <img align="center" alt="intro" src="./images/cover.png">
+    </p>
+</div>
+
 ### Hello, I am Mila
 
 I am a research engineer working on eye research and am interested in STEM and medicine, including cancer and cardiology.
