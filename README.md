@@ -19,11 +19,11 @@ How to open preview in vscode: https://code.visualstudio.com/docs/languages/mark
 
 <div align='center'>
     <p style='display: inline_block'>
-        <img align="center" alt="intro" src="./images/cove.png">
+        <img align="center" alt="intro" src="./images/cover.png">
     </p>
 </div>
 
-# Hey! I am Mila 👋
+# Hey, I am Mila 👋
 
 I'm a research engineer working on eye research and am interested in STEM and medicine, including cancer and cardiology. Currently conducting a range of data analysis, software development and research tasks at Lions Eye Institute in Perth.
 
