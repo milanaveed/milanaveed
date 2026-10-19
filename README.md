@@ -27,7 +27,7 @@ How to open preview in vscode: https://code.visualstudio.com/docs/languages/mark
 
 I'm a research engineer working on eye research and am interested in STEM and medicine, including cancer and cardiology. Currently conducting a range of data analysis, software development and research tasks at Lions Eye Institute in Perth.
 
-💬 Interested in research collaboration? Reach out via <a href="mailto:mila.zhang@uwa.edu.au">email.</a>
+💬 Interested in research collaboration? Feel free to reach out via <a href="mailto:mila.zhang@uwa.edu.au">email</a>
 
 ## 💻 Tech Stack
 
@@ -88,11 +88,11 @@ I'm a research engineer working on eye research and am interested in STEM and me
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </details>
 
-## 🌟🌟 Projects
+## 🌟 Projects
 
-👁️ [OCTAVA] Open-source tool that performs eye image processing and analysis for microvascular data. Features include binarisation, skeletonisation, segmentation, regional analysis and batch processing. Collaborated with 5 other programmers.
+👁️ [OCTAVA](https://github.com/milanaveed/octava) Open-source tool that performs eye image processing and analysis for microvascular data. Features include binarisation, skeletonisation, segmentation, regional analysis and batch processing. Collaborated with 5 other programmers.
 
-👁️ [COMBAT Data Harmonisation] Software tool designed to reduce instrument- and site-effects for optical coherence tomography angiography data across sites.
+👁️ [COMBAT Data Harmonisation] Developing a software tool to reduce instrument- and site-effects for optical coherence tomography angiography data across sites.
 
 🚢 [Battleship](https://github.com/milanaveed/cits3002-labs/tree/main/22756463_BEER) - Multi-threaded two-player battleship game in the Computer Networks unit.
 
