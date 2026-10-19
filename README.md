@@ -35,10 +35,13 @@ I'm a research engineer working on eye research and am interested in STEM and me
 <summary><b>Languages</b></summary>
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
+<code><img width="4%" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/matlab.png"></code>
+<code><img width="4%" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/r.png"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg"></code>
+
 </details>
 
 <details open>
