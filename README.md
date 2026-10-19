@@ -19,7 +19,7 @@ How to open preview in vscode: https://code.visualstudio.com/docs/languages/mark
 
 <div align='center'>
     <p style='display: inline_block'>
-        <img align="center" alt="intro" src="./images/cover.png" style="border-radius: 10px;">
+        <img align="center" alt="intro" src="./images/cover1.png" style="border-radius: 10px;">
     </p>
 </div>
 
