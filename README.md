@@ -27,7 +27,7 @@ How to open preview in vscode: https://code.visualstudio.com/docs/languages/mark
 
 I'm a research engineer working on eye research and am interested in STEM and medicine, including cancer and cardiology. Currently conducting a range of data analysis, software development and research tasks at Lions Eye Institute in Perth.
 
-💬 Interested in research collaboration? Feel free to reach out via <a href="mailto:mila.zhang@uwa.edu.au">email</a>
+💬Interested in research collaboration? Feel free to reach out via <a href="mailto:mila.zhang@uwa.edu.au">email</a>
 
 ## 💻 Tech Stack
 
