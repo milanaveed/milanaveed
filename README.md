@@ -51,7 +51,7 @@ I'm a research engineer working on eye research and am interested in STEM and me
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code>
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code> -->
 </details>
 
 <details open>
