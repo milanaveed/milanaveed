@@ -32,7 +32,7 @@ I'm a research engineer working on eye research and am interested in STEM and me
 ## 💻 Tech Stack
 
 <details open>
-<summary><b>Languages</b></summary>
+<summary><b>Programming languages</b></summary>
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
 <code><img width="4%" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/matlab.png"></code>
@@ -45,24 +45,24 @@ I'm a research engineer working on eye research and am interested in STEM and me
 </details>
 
 <details open>
-<summary><b>Frontend</b></summary>
+<summary><b>Web development: frontend + backend</b></summary>
 <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
-<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code> -->
-</details>
-
-<details open>
-<summary><b>Backend</b></summary>
-<br>
-<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code> -->
-<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code> -->
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code> -->
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 </details>
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"></code> -->
+<!-- </details>
+
+<!-- <details open>
+<summary><b>Backend</b></summary>
+<br> -->
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code> -->
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code> -->
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code> -->
 
 <!-- <details open>
 <summary><b>Mobile</b></summary>
