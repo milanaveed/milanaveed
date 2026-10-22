@@ -23,13 +23,13 @@ How to open preview in vscode: https://code.visualstudio.com/docs/languages/mark
     </p>
 </div>
 
-# Hey, I'm Mila 👋
+# Hey, I'm Mila
 
 I'm a research engineer working on eye research and am interested in STEM and medicine, including cancer and cardiology. Currently conducting a range of data analysis, software development and research tasks at Lions Eye Institute in Perth.
 
-💬 Interested in research collaboration? Feel free to reach out via <a href="mailto:mila.zhang@uwa.edu.au">email</a> I am always open to collaboration!
+💬Interested in research collaboration? Feel free to reach out via <a href="mailto:mila.zhang@uwa.edu.au">email</a> I am always open to collaboration!
 
-## 💻 Tech Stack
+## 💻Tech Stack
 
 <details open>
 <summary><b>Programming languages</b></summary>
@@ -88,7 +88,7 @@ I'm a research engineer working on eye research and am interested in STEM and me
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </details>
 
-## 🌟 Projects
+## 🌟Projects
 
 👁️ [OCTAVA](https://github.com/Open-Research-Tools-for-Ophthalmology/octava) Open-source tool that performs eye image processing and analysis for microvascular data. Features include binarisation, skeletonisation, segmentation, regional analysis and batch processing. Collaborated with 5 other programmers/programming students. 
 
