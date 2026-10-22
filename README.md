@@ -94,7 +94,9 @@ I'm a research engineer working on eye research and am interested in STEM and me
 
 👁️ [COMBAT Data Harmonisation] Developing a software tool to reduce instrument- and site-effects for optical coherence tomography angiography data across sites.
 
-📊 [Sleep Diary App](https://sleeplog-74c6f.firebaseapp.com/) - Responsive Progressive Web App for a sleep clinic. Featured user management, data storage and data analytics dashboard. Collaborated with 5 other software engineering students.
+📊 [Sleep Diary App](https://sleeplog-74c6f.firebaseapp.com/) - Co-designed and developed a responsive Progressive Web App for a sleep clinic. Featured user management, data storage and data analytics dashboard. Collaborated with 5 other students.
+
+👁️ [Computer Vision](https://github.com/milanaveed/cits4402-project) - A standalone application with a graphical user interface that performed face detection and matching. Tasks included GUI design, face detection, facial landmark detection, face alignment and display, identity clustering and reporting. Collaborated with 2 other students.
 
 🚢 [Battleship](https://github.com/milanaveed/cits3002-labs/tree/main/22756463_BEER) - Multi-threaded two-player battleship game in the Computer Networks unit.
 
