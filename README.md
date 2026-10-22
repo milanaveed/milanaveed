@@ -94,11 +94,11 @@ I'm a research engineer working on eye research and am interested in STEM and me
 
 👁️ [COMBAT Data Harmonisation] Developing a software tool to reduce instrument- and site-effects for optical coherence tomography angiography data across sites.
 
+📊 [Sleep Diary App](https://sleeplog-74c6f.firebaseapp.com/) - Responsive Progressive Web App for a sleep clinic. Featured user management, data storage and data analytics dashboard. Collaborated with 5 other software engineering students.
+
 🚢 [Battleship](https://github.com/milanaveed/cits3002-labs/tree/main/22756463_BEER) - Multi-threaded two-player battleship game in the Computer Networks unit.
 
 🖥️ [High Performance Computing] - Assignment of the CITS5507 High Performance Computing. Involved using OpenMP to perform matrix multiplication in Pawsey supercomputing environments and perfomance analysis.
-
-📊 [Sleep Diary App](https://sleeplog-74c6f.firebaseapp.com/) - Responsive Progressive Web App for a sleep clinic. Featured user management, data storage and data analytics dashboard. Collaborated with 5 other software engineering students.
 
 ☁️ [Cloud Computing] - Assignments for the CITS5503 Cloud Computing unit. Tech involved: Amazon Web Services, Linux, Docker, DynamoDB, Django.
 
