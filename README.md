@@ -90,7 +90,7 @@ I'm a research engineer working on eye research and am interested in STEM and me
 
 ## 🌟Projects
 
-👁️ [OCTAVA](https://github.com/Open-Research-Tools-for-Ophthalmology/octava) Open-source tool that performs eye image processing and analysis for microvascular data. Features include binarisation, skeletonisation, segmentation, regional analysis and batch processing. Collaborated with 5 other programmers/programming students. 
+👁️ [OCTAVA](https://github.com/Open-Research-Tools-for-Ophthalmology/octava/releases/tag/v1.0.0) Open-source tool that performs eye image processing and analysis for microvascular data. Features include binarisation, skeletonisation, segmentation, regional analysis and batch processing. Collaborated with 5 other programmers/programming students. 
 
 👁️ [COMBAT Data Harmonisation] Developing a software tool to reduce instrument- and site-effects for optical coherence tomography angiography data across sites.
 
